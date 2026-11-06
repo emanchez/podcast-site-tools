@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# Client content and tooling are intentionally not part of this repository
+site_copy/
+output/
+geckodriver*
+*.json
+*.xml
+*.jpg
+*.png
+*.zip
